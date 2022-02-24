@@ -12,3 +12,8 @@
 	path = airsrl/l10n-italy-MIG-14.0-fiscal_epos_print
 	url = git@github.com:airsrl/l10n-italy-MIG-14.0-fiscal_epos_print.git
 	branch = MIG-14.0-fiscal_epos_print
+
+[submodule "ABC-Strategie-GitHub/abc_x_databit"]
+	path = ABC-Strategie-GitHub/abc_x_databit
+	url = git@github.com:ABC-Strategie-GitHub/abc_x_databit.git
+	branch = main
