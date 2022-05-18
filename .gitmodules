@@ -1,12 +1,4 @@
-[submodule "AlessandroSkab/demo-contabilita-italiana-Odoo-14"]
-	path = AlessandroSkab/demo-contabilita-italiana-Odoo-14
-	url = git@github.com:AlessandroSkab/demo-contabilita-italiana-Odoo-14.git
-	branch = main
 
-[submodule "AlessandroSkab/afe-14.0"]
-	path = AlessandroSkab/afe-14.0
-	url = git@github.com:AlessandroSkab/afe-14.0.git
-	branch = main
 
 [submodule "airsrl/l10n-italy-MIG-14.0-fiscal_epos_print"]
 	path = airsrl/l10n-italy-MIG-14.0-fiscal_epos_print
@@ -17,3 +9,12 @@
 	path = ABC-Strategie-GitHub/abc_x_databit
 	url = git@github.com:ABC-Strategie-GitHub/abc_x_databit.git
 	branch = main
+[submodule "ABC-Strategie-GitHub/abc_afe"]
+	path = ABC-Strategie-GitHub/abc_afe
+	url = git@github.com:ABC-Strategie-GitHub/abc_afe.git
+[submodule "ABC-Strategie-GitHub/abc_base_l10n-italy"]
+	path = ABC-Strategie-GitHub/abc_base_l10n-italy
+	url = git@github.com:ABC-Strategie-GitHub/abc_base_l10n-italy.git
+[submodule "ABC-Strategie-GitHub/l10n-italy"]
+	path = ABC-Strategie-GitHub/l10n-italy
+	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
