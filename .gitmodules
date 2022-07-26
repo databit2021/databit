@@ -18,3 +18,8 @@
 [submodule "ABC-Strategie-GitHub/l10n-italy"]
 	path = ABC-Strategie-GitHub/l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
+
+[submodule "ABC-Strategie-GitHub/abc_csc_pro"]
+	path = ABC-Strategie-GitHub/abc_csc_pro
+	url = git@github.com:ABC-Strategie-GitHub/abc_csc_pro.git
+	branch = main
