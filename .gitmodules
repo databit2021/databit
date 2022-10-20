@@ -23,3 +23,8 @@
 	path = ABC-Strategie-GitHub/abc_csc_pro
 	url = git@github.com:ABC-Strategie-GitHub/abc_csc_pro.git
 	branch = main
+
+[submodule "ABC-Strategie-GitHub/abc_riferimento_amministrazione"]
+	path = ABC-Strategie-GitHub/abc_riferimento_amministrazione
+	url = git@github.com:ABC-Strategie-GitHub/abc_riferimento_amministrazione.git
+	branch = 14.0
