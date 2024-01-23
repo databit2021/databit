@@ -26,3 +26,8 @@
 	url = git@github.com:ABC-Strategie-GitHub/extra_l10n-italy.git
 	branch = 16.0
 
+
+[submodule "ABC-Strategie/OM_l10n-italy-fiscal_epos_print"]
+	path = ABC-Strategie/OM_l10n-italy-fiscal_epos_print
+	url = git@github.com:ABC-Strategie/OM_l10n-italy-fiscal_epos_print.git
+	branch = 16.0
