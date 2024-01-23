@@ -1,33 +1,31 @@
 
-
-[submodule "airsrl/l10n-italy-MIG-14.0-fiscal_epos_print"]
-	path = airsrl/l10n-italy-MIG-14.0-fiscal_epos_print
-	url = git@github.com:airsrl/l10n-italy-MIG-14.0-fiscal_epos_print.git
-	branch = 14.0-Update-20221020 
-
 [submodule "ABC-Strategie-GitHub/abc_x_databit"]
 	path = ABC-Strategie-GitHub/abc_x_databit
 	url = git@github.com:ABC-Strategie-GitHub/abc_x_databit.git
-	branch = main
+	branch = 16.0
 [submodule "ABC-Strategie-GitHub/abc_base_l10n-italy"]
 	path = ABC-Strategie-GitHub/abc_base_l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/abc_base_l10n-italy.git
-	branch = 14.0
+	branch = 16.0
 [submodule "ABC-Strategie-GitHub/l10n-italy"]
 	path = ABC-Strategie-GitHub/l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
-	branch = 14.0
+	branch = 16.0
 [submodule "ABC-Strategie-GitHub/abc_csc_pro"]
 	path = ABC-Strategie-GitHub/abc_csc_pro
 	url = git@github.com:ABC-Strategie-GitHub/abc_csc_pro.git
-	branch = main
+	branch = 16.0
 
 [submodule "ABC-Strategie-GitHub/abc_riferimento_amministrazione"]
 	path = ABC-Strategie-GitHub/abc_riferimento_amministrazione
 	url = git@github.com:ABC-Strategie-GitHub/abc_riferimento_amministrazione.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "ABC-Strategie-GitHub/extra_l10n-italy"]
 	path = ABC-Strategie-GitHub/extra_l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/extra_l10n-italy.git
-	branch = 14.0
+	branch = 16.0
+[submodule "OM_l10n-italy-fiscal_epos_print"]
+	path = OM_l10n-italy-fiscal_epos_print
+	url = git@github.com:ABC-Strategie/OM_l10n-italy-fiscal_epos_print.git
+	branch = 16.0
